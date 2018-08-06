@@ -1,2 +1,4 @@
 # Rock-Paper-Scissors
 Rock-paper-scissors is a hand game usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are "rock" (a closed fist), "paper" (a flat hand), and "scissors" (a fist with the index finger and middle finger extended, forming a V). "Scissors" is identical to the two-fingered V sign (aka "victory" or "peace sign") except that it is pointed horizontally instead of being held upright in the air. A simultaneous, zero-sum game, it has only two possible outcomes: a draw, or a win for one player and a loss for the other.
+
+This program is implemented to play the game between Human and computer where the person enters his input with letters 'r/R' for rocks, 's/S'for scissors and 'p/P' for paper. The computer randomly generates its choice and compares both the inputs and gives the winner. finally the summary is calculates as output.
