@@ -1,8 +1,7 @@
 /*
  * rock_paper_scissor.cpp
  *
- *  Created on: Feb 7, 2017
- *      Author: nisch
+ *      Author: nischala
  */
 #include <iostream>
 #include <ctime>
